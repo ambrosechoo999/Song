@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Song</string>
+    <string name="tvContent">Song Title</string>
+    <string name="add">INSERT</string>
+    <string name="edit">EDIT</string>
+    <string name="retrieve">Show List</string>
+    <string name="id">Song ID</string>
+    <string name="content">Content</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="song">Enter song title here</string>
+    <string name="singer">Enter the name of singer here</string>
+    <string name="singers">Singers</string>
+    <string name="year">Year</string>
+    <string name="stars">Stars</string>
+    <string name="years">Enter year of release here</string>
+
+</resources>
